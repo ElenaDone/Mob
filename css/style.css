@@ -27,6 +27,6 @@ body * {
 }
 
 .container::nth-child(even) {
-  background-color: olive;
+  background-color: firebrick;
   color: lightgreen;
 }
